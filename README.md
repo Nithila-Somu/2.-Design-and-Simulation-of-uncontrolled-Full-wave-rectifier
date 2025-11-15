@@ -63,5 +63,4 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="1919" height="865" alt="full wave  rectifier uncontrolled output" src="https://github.com/user-attachments/assets/7d26e834-4be8-4ec5-bd2a-c4d5865a2240" />
 
 ## Result
-
 Thus the experiment has been simulated and the output has verified successfully using matlab.
